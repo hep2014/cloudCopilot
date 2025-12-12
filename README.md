@@ -15,8 +15,8 @@ docker compose version
 ```
 #### 2. Клонирование репозитория
 ```
-git clone https://github.com/hep2014/cloudHackaton.git
-cd cloudHackaton
+git clone https://github.com/hep2014/cloudCopilot.git
+cd cloudCopilot
 ```
 ## Конфигурация окружения
 Перед запуском необходимо создать файл .env в каталоге backend:
@@ -117,7 +117,7 @@ POST /llm/bulk-api-tests
 ```
 ## Архитектура проекта
 ```
-cloudHackaton/
+cloudCopilot/
  ├── backend/
  │    ├── app/
  │    ├── Dockerfile
