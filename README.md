@@ -1,6 +1,17 @@
 ## CloudHackaton — Генератор API, manual и UI E2E тестов на базе Cloud.ru LLM
 Проект представляет собой сервис для автоматической генерации тестов (API, manual в формате Allure TestOps as Code, UI E2E), используя Cloud.ru Foundation Models (Qwen3-Coder 480B A35B Instruct).
 Сервис разворачивается полностью в Docker-контейнерах и доступен сразу после запуска.
+
+## Команда проекта
+- **Матвеев Илья** — backend, бизнес-логика, контейнеризация
+  Telegram: **[@hep2014](https://t.me/hep2014)**
+- **Кабанова Анастасия** — frontend 
+  Telegram: **[@anastaness](https://t.me/anastaness)**
+
+## Сведения о хакатоне 
+- Даты хакатона: 4-11 декабря 2025
+- Диплом участника:  [`Диплом`](docs/diploma/diplom-matveev-ilya.pdf)
+
 ## Установка
 #### 1. Установите Docker и Docker Compose
 **Для Ubuntu:**
